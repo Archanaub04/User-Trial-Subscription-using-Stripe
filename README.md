@@ -31,13 +31,19 @@ User trial & Subscription using Stripe
     7. Run php artisan serve
 
 ### Screenshot
-
+Register page
 ![Register](./public/images/register.png)
+Login
 ![Login](./public/images/login.png)
+Subscription page
 ![Subscription page](./public/images/subscription%20page.png)
+Choose Plan
 ![Choose Plan](./public/images/choose%20plan.png)
+Buy Subscription 
 ![Buy Subscription](./public/images/buy%20subscription.png)
+Subscription page after subscribed
 ![bscription page after subscribed](./public/images/subscription%20page%20after%20subscribed.png)
+Home
 ![Home page after subscription](./public/images/home%20page%20after%20subscription.png)
 
 ## My process
