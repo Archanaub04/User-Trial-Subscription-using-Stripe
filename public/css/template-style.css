@@ -1,0 +1,51 @@
+body {
+    background-color: #edeff1;
+}
+
+.subscription-row {
+    margin: auto;
+}
+
+.subscription-card {
+    text-align: center;
+    box-shadow: 1px 1px 5px lightgray;
+    padding: 10px;
+    border: 2px solid lightgrey;
+    border-radius: 20px;
+}
+
+.confirmationBtn {
+    width: 120px;
+    margin: 0 auto;
+    border-radius: 1rem;
+    display: block;
+}
+
+.fa-spin {
+    font-size: 40px;
+    color: grey;
+}
+
+.confirmation-data {
+    text-align: center;
+}
+
+.badge-active-align {
+    position: absolute;
+    right: 2rem;
+    width: max-content;
+    font-size: 13px;
+}
+
+.disabled-btn {
+    pointer-events: none;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.btn-shape {
+    width: 130px;
+    margin: 0 auto;
+    border-radius: 1rem;
+    display: block;
+}
