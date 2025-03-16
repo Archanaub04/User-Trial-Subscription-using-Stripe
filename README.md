@@ -25,10 +25,10 @@ User trial & Subscription using Stripe
     3. Copy .env.example to .env and place your datas and make a stripe account and place you secret key and publishable key and create a webhook and copy webhok signing key and all datas place in .env.
     Also create plans for monthly and yearly and copy the plan ids and store it in the subscription plans table.
     4. Create app key by running the command php artisan key:generate
-    4. Plce the plan IDs in subscription seeder
-    5. Run php artisan migrate
-    6. Run php artisan db:seed
-    7. Run php artisan serve
+    5. Plce the plan IDs in subscription seeder
+    6. Run php artisan migrate
+    7. Run php artisan db:seed
+    8. Run php artisan serve
 
 ### Screenshot
 Register
